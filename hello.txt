@@ -7,4 +7,6 @@ hi Git1!  2  master
 hi git1!  3  hot-fix
 GitHub success!
 stu update~
-SSH
+SSH pull
+SSH push
+
